@@ -1,5 +1,25 @@
 <h1 align="center">这是一个composer包模板</h1>
-* 全局替换`webguosai/xxx`
+* 克隆本仓库
+
+  ```shell
+  git clone https://github.com/webguosai/composer-templet.git 
+  ```
+
+* 全局替换 `webguosai/xxx`
+
+* 转移仓库
+
+  ```shell
+  git remote set-url origin https://github.com/webguosai/xxx.git
+  ```
+
+* 删除这段md
+
+
+
+
+
+  
 
 <h1 align="center">xxx</h1>
 
