@@ -1,0 +1,32 @@
+{
+    "name": "webguosai/xxx",
+    "description": "",
+    "keywords": [],
+    "support": {
+        "issues": "https://github.com/webguosai/xxx/issues",
+        "source": "https://github.com/webguosai/xxx"
+    },
+    "authors": [
+        {
+            "name": "webguosai",
+            "email": "501807312@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2",
+        "ext-json": "*",
+        "ext-openssl": "*",
+        "ext-iconv": "*",
+        "webguosai/http-client": "^2.1",
+        "webguosai/framework": "^1.5"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Webguosai\\": "src"
+        }
+    },
+    "license": "MIT"
+}
